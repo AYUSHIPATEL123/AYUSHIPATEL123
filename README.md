@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AYUSHIPATEL123
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend web devlopment.
+- 🌱 I’m currently learning backend devlopment in python.
 
 <!---
 AYUSHIPATEL123/AYUSHIPATEL123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
