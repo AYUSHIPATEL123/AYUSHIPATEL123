@@ -54,15 +54,7 @@
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my projects and connect with me.*  
-✅ This will now show:
 
-Animated typing banner
-
-Shields.io badges (Python, Django, etc.)
-
-GitHub Stats + Languages + Streaks
-
-Clean sections with emojis
 
 
 
