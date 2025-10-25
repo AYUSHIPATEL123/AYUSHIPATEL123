@@ -14,14 +14,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
-## 🛠 Tech Stack  
-| Category       | Technologies                                 |
-|----------------|----------------------------------------------|
-| Programming    | Python, JavaScript                            |
-| Backend        | Django, Django REST Framework, FastAPI       |
-| Databases      | MySQL, PostgreSQL                             |
-| Dev & Version  | Git, GitHub                                   |
-| Containerization & Deployment | Docker, (learning CI/CD & microservices)  |
+
 
 
 ## 📂 Featured Projects  
