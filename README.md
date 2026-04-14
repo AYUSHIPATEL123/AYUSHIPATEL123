@@ -22,7 +22,7 @@
 - **[Lotus](https://github.com/AYUSHIPATEL123/lotus)** – Django-based website project  
 - **[Snake and Apple Game](https://github.com/AYUSHIPATEL123/Snake-and-Apple-Game)** – Fun game built in Python  
 - **[Hospital Role-Based Authentication](https://github.com/AYUSHIPATEL123/hospital-rolebased-authentication)** – Role-based authentication for hospital management  
-- **[Mini Projects](https://github.com/AYUSHIPATEL123/mini-projects-python)** – Beginner-level Python scripts and tools  
+- **[Backend Rolebased Access & Record Proccessing](https://github.com/AYUSHIPATEL123/Finance-Data-Processing-Role-Access-Control-Backend)** – Finance record processing and role based access Fast-API  
 - **[Mid-Level Projects](https://github.com/AYUSHIPATEL123/mid-level-projects-python)** – Intermediate Python applications  
 
 👉 Explore more in my [Repositories](https://github.com/AYUSHIPATEL123?tab=repositories).
