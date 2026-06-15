@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats  
 
-![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHIPATEL123&show_icons=true&theme=tokyonight)     ![GitHub Streak](https://streak-stats.demolab.com?user=AYUSHIPATEL123&theme=tokyonight&hide_border=false)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHIPATEL123&layout=compact&theme=tokyonight) 
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHIPATEL123&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=AYUSHIPATEL123&theme=tokyonight&hide_border=false)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHIPATEL123&layout=compact&theme=tokyonight) 
 
  
 
@@ -60,7 +60,6 @@
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushipatel123)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ayushi.devloper.work@gmail.com)  
 
 
