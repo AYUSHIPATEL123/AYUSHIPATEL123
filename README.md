@@ -43,7 +43,7 @@
 
 ## 📊 GitHub Stats  
 
-![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHIPATEL123&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=AYUSHIPATEL123&theme=tokyonight&hide_border=false)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHIPATEL123&layout=compact&theme=tokyonight) 
+![GitHub Streak](https://streak-stats.demolab.com?user=AYUSHIPATEL123&theme=tokyonight&hide_border=false)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHIPATEL123&layout=compact&theme=tokyonight) ![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHIPATEL123&show_icons=true&theme=tokyonight) 
 
  
 
