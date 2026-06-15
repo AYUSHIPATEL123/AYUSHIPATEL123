@@ -1,6 +1,6 @@
 # Hi there, I'm Ayushi 👋  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&width=600&lines=Python+Developer;Backend+Enthusiast;Django+Learner;Lifelong+Learner+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color24AAE3&width=600&lines=Python+Developer;Backend+Enthusiast;Django+Learner;Lifelong+Learner+🚀)
 
 ---
 
@@ -43,9 +43,9 @@
 
 ## 📊 GitHub Stats  
 
-![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHIPATEL123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHIPATEL123&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=AYUSHIPATEL123&theme=radical&hide_border=false)  
+![Ayushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AYUSHIPATEL123&show_icons=true&theme=tokyonight)     ![GitHub Streak](https://streak-stats.demolab.com?user=AYUSHIPATEL123&theme=tokyonight&hide_border=false)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHIPATEL123&layout=compact&theme=tokyonight) 
+
+ 
 
 ---
 
