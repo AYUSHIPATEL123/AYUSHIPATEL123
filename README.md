@@ -1,6 +1,6 @@
 # Hi there, I'm Ayushi 👋  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color24AAE3&width=600&lines=Python+Developer;Backend+Enthusiast;Django+Learner;Lifelong+Learner+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color24AAE3&width=600&lines=Python+Developer...;Backend+Enthusiast;Django+Learner;Lifelong+Learner+🚀)
 
 ---
 
