@@ -31,11 +31,25 @@
 
 ## 📂 Featured Projects  
 
-- **[Lotus](https://github.com/AYUSHIPATEL123/lotus)** – Django-based website project  
-- **[Snake and Apple Game](https://github.com/AYUSHIPATEL123/Snake-and-Apple-Game)** – Fun game built in Python  
-- **[Hospital Role-Based Authentication](https://github.com/AYUSHIPATEL123/hospital-rolebased-authentication)** – Role-based authentication for hospital management  
-- **[Backend Rolebased Access & Record Proccessing](https://github.com/AYUSHIPATEL123/Finance-Data-Processing-Role-Access-Control-Backend)** – Finance record processing and role based access Fast-API  
-- **[Mid-Level Projects](https://github.com/AYUSHIPATEL123/mid-level-projects-python)** – Intermediate Python applications  
+- **<a href="https://github.com/AYUSHIPATEL123/lotus.git">
+  <span style="color: #ff5733;">LOTUS</span>
+</a>** – Django-based website project
+
+- **<a href="https://github.com/AYUSHIPATEL123/Snake-and-Apple-Game-.git">
+  <span style="color: #ff5733;">Snake and Apple Game</span>
+</a>**  – Fun game built in Python
+
+- **<a href="https://github.com/AYUSHIPATEL123/hospital-rolebased-authentication.git">
+  <span style="color: #ff5733;">Hospital Role-Based Authentication</span>
+</a>** – Role-based authentication for hospital management
+
+- **<a href="https://github.com/AYUSHIPATEL123/Finance-Data-Processing-Role-Access-Control-Backend.git">
+  <span style="color: #ff5733;">Backend Rolebased Access & Record Proccessing</span>
+</a>** – Finance record processing and role based access Fast-API
+ 
+- **<a href="https://github.com/AYUSHIPATEL123/mid-level-Projects-python.git">
+  <span style="color: #ff5733;">Mid-Level Projects</span>
+</a>** – Intermediate Python applications  
 
 👉 Explore more in my [Repositories](https://github.com/AYUSHIPATEL123?tab=repositories).
 
